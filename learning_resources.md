@@ -65,8 +65,6 @@ Part 2: Functional Programming
 
 # Tutorials: 
 
-## Javascript - MERN: 
-
 [MERN](https://zellwk.com/blog/crud-express-mongodb/)
 
 [Scotch.io - React App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
